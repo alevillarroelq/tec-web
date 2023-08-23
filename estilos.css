@@ -1,0 +1,14 @@
+.contenido {
+    padding: 25px;
+    background-color: green;
+    color: white;
+    border: 8px solid red;
+    margin: 15px;
+    font-family: Verdana, Geneva, sans-serif;
+}
+.saludo{
+    padding: 10px;
+    background-color: red;
+    color: white;
+    font-family: Verdana, Geneva, sans-serif;
+}
